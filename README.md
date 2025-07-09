@@ -1,2 +1,1 @@
-# NFTAiCoreTechX
-Advanced NFTAiCoreTechX project
+.
