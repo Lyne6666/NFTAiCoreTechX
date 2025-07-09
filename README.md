@@ -1,0 +1,2 @@
+# NFTAiCoreTechX
+Advanced NFTAiCoreTechX project
